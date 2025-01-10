@@ -91,11 +91,4 @@ Share your project to get feedback and showcase your skills:
 
 ---
 
-## Feedback
-
-We'd love to hear your thoughts!  
-If you have suggestions for improving this challenge, please email us at **hi[at]frontendmentor[dot]io**.
-
----
-
 ### Have fun building! 🚀
