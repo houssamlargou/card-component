@@ -1,3 +1,7 @@
+# Frontend Mentor - Stats preview card component
+
+![desktop-preview](https://github.com/user-attachments/assets/5fc283a5-7d03-4c75-a4bb-6c6ea1f073af)
+
 # card-component
 # Welcome! 👋
 
